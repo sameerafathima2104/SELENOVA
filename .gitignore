@@ -1,0 +1,4 @@
+selenova_memory.json
+*.tmp
+__pycache__/
+.env
